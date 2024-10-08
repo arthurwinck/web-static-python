@@ -1,6 +1,6 @@
 ## Web static python
 
-Uses fastAPI, poetry and mypy
+Uses fastAPI, poetry and mypy to create a backend webapp capable of handling requests
 
 Only needs Python 3.12.4, pipx, poetry to install dependencies 
 
